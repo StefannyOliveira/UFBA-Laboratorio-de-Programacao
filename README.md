@@ -1,3 +1,0 @@
-# UFBA-Laboratorio-de-Programacao
-
-Atividades e provas em C++ da disciplina MATA57 - Laboratório de Programação I da Universidade Federal da Bahia
